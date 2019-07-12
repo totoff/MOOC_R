@@ -1,0 +1,8 @@
+[Diagram]
+Title=Default title
+Database=D:\MegaSync\Developpement\R\AnaDo_JeuDonnees_Decathlon.txt
+
+[Dataset]
+MLClassGenerator=TMLGenDataset
+successors=0
+
